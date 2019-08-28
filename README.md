@@ -5,8 +5,8 @@ A project that uses Docker, VSCode, and the Remote Docker extension to automatic
 1. Install Docker for your appropriate environment.
 1. Install Visual Studio Code
 1. Install the Remote - Containers Extension
-1. git clone ******
-1. cd ******
+1. git clone https://github.com/bushidocodes/vscode-remote-docker-csci3411.git
+1. cd vscode-remote-docker-csci3411
 1. code .
 1. When you receive a popup stating that VSCode has detected a Remote - Containers configuration and asking if you would like to open this directory in the container, click yes.
 1. Be patient while the Docker build image is configured
